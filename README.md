@@ -9,27 +9,47 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Tech CSE @ St. Martin’s Engineering College (2022–2026)  
+- 🎓 <b>B.Tech CSE</b> @ St. Martin’s Engineering College (2022–2026)  
 - 👩‍💻 Full-stack and AI projects are my creative outlet  
 - 🔍 Focused on solving real-world problems with code  
-- 🎯 Currently deep diving into: **AI for E-commerce**, **Spring Boot REST APIs**, and **Cloud basics**  
-- 🛠️ Always blending logic + creativity to craft tech that matters
+- 🎯 Currently exploring: <b>AI for E-commerce</b>, <b>Spring Boot REST APIs</b>, and <b>Cloud basics</b>  
+- 💡 Passionate about blending logic + creativity in everything I build  
 
 ---
 
 ### 💼 Experience
 
-**💻 Java Developer Intern — Path Creator**  
-*Hyderabad | Dec 2024*  
-- Built enterprise-grade REST APIs using **Java + Spring Boot**  
-- Implemented secure auth & session logic  
-- Participated in agile dev cycles, boosting backend efficiency by **25%**
+<table>
+  <tr>
+    <td align="center" width="15%">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="70px" alt="Java Icon"/>
+    </td>
+    <td>
+      <b>Java Developer Intern — Path Creator</b><br>
+      <i>Hyderabad | Dec 2024</i>
+      <ul>
+        <li>🔧 Built REST APIs using <b>Java + Spring Boot</b></li>
+        <li>🔐 Implemented secure authentication & session handling</li>
+        <li>🚀 Improved backend performance by <b>25%</b></li>
+      </ul>
+    </td>
+  </tr>
 
-**🐍 Python Developer Intern — NilTech-Edu**  
-*Hyderabad | Dec 2023*  
-- Developed backend analytics dashboards  
-- Optimized DB queries, implemented **Redis caching**  
-- Collaborated with UI/UX team to ensure smooth sync  
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="70px" alt="Python Icon"/>
+    </td>
+    <td>
+      <b>Python Developer Intern — NilTech-Edu</b><br>
+      <i>Hyderabad | Dec 2023</i>
+      <ul>
+        <li>📊 Developed backend dashboards with user history and charts</li>
+        <li>⚡ Optimized queries and added <b>Redis caching</b></li>
+        <li>🤝 Worked with UI/UX teams for better frontend-backend sync</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -54,13 +74,11 @@
 ### 📫 Let’s Connect!
 
 - ✉️ Email: **nallasusmitha815@gmail.com**  
-- 💼 LinkedIn: [Susmitha Nalla](https://linkedin.com/in/susmitha-nalla-69a649265)  
+- 💼 LinkedIn: [Susmitha Nalla](https://linkedin.com/in/susmitha-nalla-69a649265)
 
 ---
 
 <p align="center">
   <b>"Build things that make lives better — one line of code at a time."</b><br>
-  💖 Thanks for stopping by — feel free to star ⭐️ and fork 🍴 any of my repos!
+  💖 Thanks for visiting — feel free to star ⭐ and fork 🍴 any of my repos!
 </p>
-
-
