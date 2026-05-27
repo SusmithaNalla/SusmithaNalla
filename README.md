@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Susmitha Nalla</h1>
-<h3 align="center">🚀 Passionate Developer | Java & Python Enthusiast | CSE Undergrad | AI Explorer</h3>
+<h3 align="center">🚀 Passionate Developer | Java & Python Enthusiast | CSE Graduated | AI Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F752A2&center=true&vCenter=true&width=435&lines=Code.+Build.+Debug.+Repeat.;Driven+by+Curiosity+%26+Creativity;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
